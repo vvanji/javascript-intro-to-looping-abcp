@@ -28,7 +28,7 @@ function doWhileLoop(array){
 }
  
 do {
-  array.slice.log('doo-bee-doo-bee-doo')
+  array = array.slice(1);
 } while (array.lenght> 0 && maybeTrue());
 return array;
 }
