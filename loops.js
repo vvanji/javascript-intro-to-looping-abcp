@@ -12,4 +12,6 @@ return array;
 
 forLoop();
 
-function whileloop(number)
+function whileloop(number){
+  
+}
