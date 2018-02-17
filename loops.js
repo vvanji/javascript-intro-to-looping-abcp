@@ -14,5 +14,10 @@ forLoop();
 
 
 function whileloop(number){
-  
+  let countdown = number;
+  while (countdown > 0){
+    console.log(--countdown)
+  }
 }
+
+whileloop(5);
