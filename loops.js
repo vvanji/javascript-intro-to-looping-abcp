@@ -20,3 +20,13 @@ function whileLoop(n){
 }
 
 whileloop(5);
+
+
+function doWhileLoop(array){
+  
+  while (n > 0){
+    console.log(--n);
+  } return 'done'
+}
+
+whileloop(5);
