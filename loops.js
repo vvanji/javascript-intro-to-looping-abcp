@@ -33,4 +33,4 @@ do {
 
 }
 
-whileloop(5);
+doWhileLoop();
